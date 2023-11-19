@@ -1,0 +1,25 @@
+namespace.package.module.DemoClass
+==================================
+
+.. currentmodule:: namespace.package.module
+
+.. autoclass:: DemoClass
+   :members:
+   :special-members: __add__, __mul__
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~DemoClass.__init__
+      ~DemoClass.demo_method
+   
+   
+
+   
+   
+   

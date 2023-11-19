@@ -1,0 +1,30 @@
+﻿namespace.package.module
+========================
+
+.. automodule:: namespace.package.module
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+   
+      DemoClass
+   
+   
+
+   
+   
+   
+
+
+
